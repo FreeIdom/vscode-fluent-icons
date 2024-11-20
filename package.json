@@ -1,7 +1,7 @@
 {
   "name": "cs-fluent-icons",
   "displayName": "CS Product Icons",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "publisher": "FreeIdom",
   "description": "product icons",
   "icon": "icon.png",
@@ -21,7 +21,7 @@
     "productIconThemes": [
       {
         "id": "cs-fluent-icons",
-        "label": "CS",
+        "label": "CS Product Icons",
         "path": "./theme/fluent-icons.json"
       }
     ]
