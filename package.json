@@ -1,10 +1,11 @@
 {
   "name": "cs-fluent-icons",
   "displayName": "CS Fluent Icons",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "FreeIdom",
   "description": "Fluent product icons for Visual Studio Code",
   "icon": "icon.png",
+  "preview": true,
   "categories": [
     "Themes"
   ],
