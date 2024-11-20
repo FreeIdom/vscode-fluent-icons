@@ -1,8 +1,8 @@
 {
-  "name": "fluent-icons",
-  "displayName": "Fluent Icons",
-  "version": "0.0.19",
-  "publisher": "miguelsolorio",
+  "name": "cs-fluent-icons",
+  "displayName": "CS Fluent Icons",
+  "version": "0.0.1",
+  "publisher": "FreeIdom",
   "description": "Fluent product icons for Visual Studio Code",
   "icon": "icon.png",
   "categories": [
@@ -20,8 +20,8 @@
   "contributes": {
     "productIconThemes": [
       {
-        "id": "fluent-icons",
-        "label": "Fluent Icons",
+        "id": "cs-fluent-icons",
+        "label": "CS Fluent Icons",
         "path": "./theme/fluent-icons.json"
       }
     ]

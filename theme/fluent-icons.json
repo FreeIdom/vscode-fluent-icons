@@ -1,7 +1,7 @@
 {
   "fonts": [
     {
-      "id": "fluent-icons",
+      "id": "cs-fluent-icons",
       "src": [
         {
           "path": "./fluent-icons.ttf",
