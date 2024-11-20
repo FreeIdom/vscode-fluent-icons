@@ -1,9 +1,9 @@
 {
-  "name": "cs-fluent-icons",
-  "displayName": "CS Fluent Icons",
-  "version": "0.0.2",
+  "name": "cs-product-icons",
+  "displayName": "CS product Icons",
+  "version": "0.0.3",
   "publisher": "FreeIdom",
-  "description": "Fluent product icons for Visual Studio Code",
+  "description": "product icons",
   "icon": "icon.png",
   "preview": true,
   "categories": [
@@ -15,14 +15,13 @@
   "keywords": [
     "icon",
     "theme",
-    "fluent",
     "product"
   ],
   "contributes": {
     "productIconThemes": [
       {
         "id": "cs-fluent-icons",
-        "label": "CS Fluent Icons",
+        "label": "CS",
         "path": "./theme/fluent-icons.json"
       }
     ]
@@ -44,7 +43,7 @@
     "url": "https://github.com/misolori/vscode-fluent-icons/issues"
   },
   "author": {
-    "name": "Miguel Solorio"
+    "name": "CS"
   },
   "devDependencies": {
     "handlebars": ">=4.7.7",
